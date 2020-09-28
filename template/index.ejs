@@ -1,0 +1,9 @@
+<div><%= question %></div>
+<ul>
+    <% results.forEach(item => { %>
+    <li>
+        <div><%= item.content %></div>
+        <div><%= item.rate %></div>
+    </li>
+    <% }); %>
+</ul>

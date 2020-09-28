@@ -1,0 +1,38 @@
+[
+    {
+        "filename": "hoge",
+        "question": "問題",
+        "results": [
+            {
+                "content": "*回答内容1*",
+                "rate": "10%"
+            },
+            {
+                "content": "*回答内容2*",
+                "rate": "20%"
+            },
+            {
+                "content": "*回答内容3*",
+                "rate": "30%"
+            }
+        ]
+    },
+    {
+        "filename": "fuga",
+        "question": "問題",
+        "results": [
+            {
+                "content": "*回答内容4*",
+                "rate": "40%"
+            },
+            {
+                "content": "*回答内容5*",
+                "rate": "50%"
+            },
+            {
+                "content": "*回答内容6*",
+                "rate": "60%"
+            }
+        ]
+    }
+]
